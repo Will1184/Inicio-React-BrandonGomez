@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Inicio-React-BrandonGomez/static/css/main.5d1ee1d1.css",
+    "main.js": "/Inicio-React-BrandonGomez/static/js/main.da5a73ff.js",
+    "index.html": "/Inicio-React-BrandonGomez/index.html",
+    "main.5d1ee1d1.css.map": "/Inicio-React-BrandonGomez/static/css/main.5d1ee1d1.css.map",
+    "main.da5a73ff.js.map": "/Inicio-React-BrandonGomez/static/js/main.da5a73ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d1ee1d1.css",
+    "static/js/main.da5a73ff.js"
+  ]
+}
